@@ -50,4 +50,8 @@ I'm finding looking at the source code of https://docs.godotengine.org/en/3.1/ v
 
 By the way, I'm using SourceTree. https://www.sourcetreeapp.com/ , I've found it to be the easiest source control I can find, but by and large you're probably fine editing on GitHub for just tweaks and stuff.
 
-If you ever lose the github link for some reason, here's my repo:https://github.com/Lachlainn/HerefordWalks
+If you ever lose the github link for some reason, here's my repo: https://github.com/Lachlainn/HerefordWalks
+
+===================================================================================================
+
+Oh oh something else! When going through Duncan's Walks.html, you can easily find which image has which number by dragging it into the browser search bar. Yes, it's tedious. Btw, all the website pictures are in Duncan's Walks_files. They also exist in Walk Books (Originals), but inside word documents and I know how annoying that is.
