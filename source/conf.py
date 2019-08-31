@@ -17,7 +17,8 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'HerefordWalks'
+project = 'Hereford Walks'
+copyright = 'No copyright but I can\'t be bothered getting rid of this symbol'
 author = 'Lach'
 
 
