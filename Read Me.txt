@@ -1,0 +1,53 @@
+Hey, here's a roadmap, delete or add as necessary:
+
+--Convert all of Duncan's Walks to reStructuredText
+
+--Add easy editing for end users
+
+--Come up with a styleguide
+
+--Customise the website template to something cool
+
+--Add a nice logo maybe?
+
+--Make it easy for people to add their own walks
+
+--Make sure that printouts look good of any given page
+
+--Convert all maps to embedded google maps or something
+
+--Add plus codes and coordinates to each starting point, (maybe each landmark?)
+
+--Speaking of maps, check if we even have lisences for those, or need to put something down
+
+--Have a thing that says when it was last walked. And that can be ticked by anyone, and it'll say "last walked today at blank". I'm not sure that's possible, I'm just spitballin' here.
+
+--Ensure each walk is credited with its original source. Some of them say where they come from in the index blurbs.
+
+--Write a guide to help normies make changes on GitHub. I know it can be overwhelming.
+
+--Fix roadmap
+
+--Come up with a good name for the website!
+
+I guess that isn't really a roadmap beacuse it's an array of thing which can be done in almost any order. If you're reading this and want to help, come chat on the discord server 
+https://discord.gg/PgptShb so we can avoid doing the same work twice where necessary.
+You're probably new to reStructuredText, so here's a handy link:
+
+https://www.sphinx-doc.org/en/master/usage/restructuredtext/basics.html
+
+================================================================================================
+
+Also, to make all these .rst files into actual HTML, you're going to need Python intalled with Sphinx on top. There's documentation online on how to do this here 
+https://www.sphinx-doc.org/en/master/usage/installation.html 
+Drop in on the discord if you need help with any of that, it's different for each operating system. If you know how to change directory and switch disks in Command Prompt you're probably fine, it's mostly copy and pasting lines of codes.
+
+As I write this, this website isn't hosted anywhere, mostly because there's not much to it yet. I (that is, Lachlainn Hayes lachlainn.hayes@gmail.com) will be doing it at some point, though if someone else wants to take it on themselves, no problem!
+
+Currently I'm trying to sort each walk by starting point (eg, Belmont roundabout etc), this can change, especially if (hopefully!) other people add their walks.
+
+I'm finding looking at the source code of https://docs.godotengine.org/en/3.1/ very helpful for working out how to put this together. They're on a creative commons license too so maybe even just... nick that code, yeah?
+
+By the way, I'm using SourceTree. https://www.sourcetreeapp.com/ , I've found it to be the easiest source control I can find, but by and large you're probably fine editing on GitHub for just tweaks and stuff.
+
+If you ever lose the github link for some reason, here's my repo:https://github.com/Lachlainn/HerefordWalks

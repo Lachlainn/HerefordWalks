@@ -1,0 +1,3 @@
+Sphinx written by our boy Georg Brandl and licensed under the BSD license.
+
+Don't know which BSD license.
